@@ -1,5 +1,5 @@
 {
-  "name": "gitbook-plugin-expandable-chapters-auto",
+  "name": "gitbook-plugin-expandable-chapters-small-auto",
   "description": "copy from cocos's document",
   "main": "index.js",
   "version": "0.2.0",
